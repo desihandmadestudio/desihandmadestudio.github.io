@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Womenswear on DESI Catalogue</title>
+    <title>Women&#39;s Collection on DESI Catalogue</title>
     <link>https://studio.desihandmade.com/womenswear/</link>
-    <description>Recent content in Womenswear on DESI Catalogue</description>
+    <description>Recent content in Women&#39;s Collection on DESI Catalogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://studio.desihandmade.com/womenswear/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Half Sleeve Kurta</title>
-      <link>https://studio.desihandmade.com/womenswear/chwk2hh1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://studio.desihandmade.com/womenswear/chwk2hh1/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Printed Skirt</title>
       <link>https://studio.desihandmade.com/womenswear/chwr2ha2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>https://studio.desihandmade.com/womenswear/chwr2ha2/</guid>
-      <description></description>
+      <description>Fabric colour : Natural Kora Fabric weave : plain Yarn count : single 40&amp;rsquo;s Block design : floral Block colour : Brown</description>
+    </item>
+    
+    <item>
+      <title>Printed Top</title>
+      <link>https://studio.desihandmade.com/womenswear/chwk2hh1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://studio.desihandmade.com/womenswear/chwk2hh1/</guid>
+      <description>Fabric colour : Natural Indigo Fabric weave : plain Yarn count : 2X40&amp;rsquo;s Block design : floral Block colour : Dark Blue</description>
     </item>
     
   </channel>

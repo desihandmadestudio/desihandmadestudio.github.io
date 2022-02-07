@@ -1,28 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Menswear on DESI Catalogue</title>
+    <title>Men&#39;s Collection on DESI Catalogue</title>
     <link>https://studio.desihandmade.com/menswear/</link>
-    <description>Recent content in Menswear on DESI Catalogue</description>
+    <description>Recent content in Men&#39;s Collection on DESI Catalogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://studio.desihandmade.com/menswear/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sleeveless Coat</title>
+      <title>Formal Trousers</title>
+      <link>https://studio.desihandmade.com/menswear/chmp1ca1/</link>
+      <pubDate>Mon, 07 Feb 2022 20:22:37 +0530</pubDate>
+      
+      <guid>https://studio.desihandmade.com/menswear/chmp1ca1/</guid>
+      <description>Fabric colour : Natural Arecanut / Indigo Fabric weave : plain Yarn count : 2X20&amp;rsquo;s</description>
+    </item>
+    
+    <item>
+      <title>Button Pyjama</title>
+      <link>https://studio.desihandmade.com/menswear/chmy1ba2/</link>
+      <pubDate>Mon, 07 Feb 2022 19:41:47 +0530</pubDate>
+      
+      <guid>https://studio.desihandmade.com/menswear/chmy1ba2/</guid>
+      <description>Fabric colour : Natural Kora Fabric weave : plain Yarn count : 2X40&amp;rsquo;s</description>
+    </item>
+    
+    <item>
+      <title>Waist Coat</title>
       <link>https://studio.desihandmade.com/menswear/chmc5cb1/</link>
       <pubDate>Mon, 07 Feb 2022 10:13:15 +0530</pubDate>
       
       <guid>https://studio.desihandmade.com/menswear/chmc5cb1/</guid>
-      <description></description>
+      <description>Fabric colour : Natural Indigo Fabric weave : plain Yarn count : 2X20&amp;rsquo;s</description>
     </item>
     
     <item>
-      <title>Half Sleeve Printed Shirt</title>
+      <title>Printed Shirt</title>
       <link>https://studio.desihandmade.com/menswear/chms3ha0/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>https://studio.desihandmade.com/menswear/chms3ha0/</guid>
-      <description></description>
+      <description>Fabric colour : Natural Kora Fabric weave : plain Yarn count : 2X40&amp;rsquo;s Block design : floral Block colour : Brown</description>
     </item>
     
   </channel>
